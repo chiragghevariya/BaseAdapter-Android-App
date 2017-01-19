@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BaseAdapter</string>
+    <string-array name="titles">
+
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+
+    </string-array>
+
+    <string-array name="description">
+
+        <item>this is too much</item>
+        <item>this is too much</item>
+        <item>this is too much</item>
+
+    </string-array>
+</resources>
